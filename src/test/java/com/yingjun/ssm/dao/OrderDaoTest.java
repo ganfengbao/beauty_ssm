@@ -47,6 +47,7 @@ public class OrderDaoTest {
 			System.out.println(order);
 		}
 		System.out.println("--------------------------");
+		System.out.println("--------------------------");
 	}
 
 }

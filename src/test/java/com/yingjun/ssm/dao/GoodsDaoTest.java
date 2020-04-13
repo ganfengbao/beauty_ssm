@@ -32,6 +32,7 @@ public class GoodsDaoTest {
 		int result=goodsDao.reduceNumber(1000);
 		System.out.println("testReduceNumber result:"+result);
 		System.out.println("--------------------------");
+		System.out.println("--------------------------");
 	}
 
 	@Test
