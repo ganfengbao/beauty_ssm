@@ -51,6 +51,7 @@ public class UserDaoTest {
 	@Test
 	public void testText() {
 		System.out.println("1234");
+		System.out.println("1234");
 		System.out.println("完成！");
 		System.out.println("第三次");
 	}
