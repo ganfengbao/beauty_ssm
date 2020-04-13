@@ -48,4 +48,8 @@ public class UserDaoTest {
 		}
 	}
 
+	@Test
+	public void testText() {
+	}
+
 }
